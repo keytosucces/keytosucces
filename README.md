@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keytosucces (KEY)
 - 👀 I’m interested in manga and roller skating
 - 🫶🏿 My last GitHub account was deleted, so I'm starting fresh!
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently studying applied mathematics and software engineering
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: www.linkedin.com/in/keysmu
 
