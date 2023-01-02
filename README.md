@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/keysmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keysmu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/keytosucces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keytosucces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keytosucces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keytosucces" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">languages and tools:</h3>
