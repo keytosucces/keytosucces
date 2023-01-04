@@ -12,6 +12,7 @@
 <h3 align="left">connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keysmu" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.citypng.com/photo/12384/hd-linkedin-official-logo-transparent-background" alt="keysmu" height="30"/></a>
+<a href="https://invite.duolingo.com/BDHTZTB5CWWKT6OBA4FK3JQ6AA" target="blank"><img align="center" src="https://design.duolingo.com/7d3b95abf67001cde6ea.svg" alt="keysmu" height="30"/></a>
 </p>
 
 <h3 align="left">languages and tools:</h3>
